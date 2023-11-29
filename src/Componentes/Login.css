@@ -1,0 +1,34 @@
+/* Exemplo no mesmo arquivo do componente Login */
+
+/* Estilos para o botão de login */
+.login-button {
+    font-size: 1.0em; /* Ajusta o tamanho do texto */
+    padding: 10px 20px; /* Ajusta o espaçamento interno */
+    /* Adicione mais estilos conforme desejado */
+  }
+
+.login-input {
+    width: 95%; /* Define a largura total */
+    padding: 10px; /* Ajusta o espaçamento interno */
+    margin-bottom: 40px; /* Adiciona um espaço abaixo de cada campo */
+    font-size: 1.5em; /* Ajusta o tamanho do texto */
+    /* Adicione mais estilos conforme desejado */
+  }
+
+ .Container {
+    width:100%; /* Define a largura do container como 80% da largura do contêiner pai */
+    max-width: 0 auto; /* Define a largura máxima do container como 1200 pixels */
+    min-width: 100px; /* Define a largura mínima do container como 300 pixels */
+    margin: 0 auto; /* Para centralizar horizontalmente o container */
+   
+    /* Outros estilos conforme necessário */
+  }
+
+  .ContainerEsquerdo {
+    width:100%; /* Define a largura do container como 80% da largura do contêiner pai */
+    max-width: 500px; /* Define a largura máxima do container como 1200 pixels */
+    min-width: 100px; /* Define a largura mínima do container como 300 pixels */
+    margin: 300px; /* Para centralizar horizontalmente o container */
+   
+    /* Outros estilos conforme necessário */
+  }

@@ -22,6 +22,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url('C:\\Projetos\\react\\meu-app-hello-world\\src\\Images\\logogrande.png');
+  background-size: auto; /* Para cobrir todo o elemento */
+  background-position: 120vh ;
+  background-repeat: no-repeat;
 }
 
 .App-link {
